@@ -129,4 +129,5 @@ VLESS + gRPC [TLS]
 نکته مهم: برای کانفیگ vless + tcp + xtls-vison حتما در بخش adress آی‌پی سرور رو قرار بدید. این کار رو برای Trojan + tcp هم انجام بدید تا متصل بشید.
 
 نکته مهم دیگه: اگر احیانا کد بلاک شد حتما subdomain رو دستکاری کنید. مثلا:
+
 download.digitalrights.de -> iran.digitalrights.de
